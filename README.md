@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aditya Raj and I'm a 3rd-year undergrad from IIT ROORKEE.<br>Highly inrerested in AI and tech.</h2>
+<h2 align="left">Hi 👋! My name is Aditya Raj and I'm a 3rd-year undergrad from IIT ROORKEE.<br>Highly interested in AI and tech.</h2>
 
 
 <div align="left">
